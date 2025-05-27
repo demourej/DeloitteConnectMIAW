@@ -3,8 +3,7 @@
         <script type='text/javascript'>
             function initEmbeddedMessaging() {
                 try {
-                    embeddedservice_bootstrap.settings.language = 'en_US'; // For example, enter 'en' or 'en-US'
-        
+                    embeddedservice_bootstrap.settings.language = 'en_US';
                     embeddedservice_bootstrap.init(
                         '00DHu00000R9Yl5',
                         'SDO_Messaging_for_Web',
